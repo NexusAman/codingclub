@@ -1,4 +1,8 @@
 # codingclub
-This is my first repository.
+Hello Everyone,
 <br>
-My name is aman kumar keshri.
+I'm Aman Kumar Keshri.
+<br>
+This is my first repo.
+
+
